@@ -11,7 +11,7 @@ export function Contact() {
             <div className="contact-glow" />
             <div className="contact-card__eyebrow"><i /> OPEN TO NEW IDEAS</div>
             <h2>Let&apos;s build something<br /><span>meaningful with AI.</span></h2>
-            <p>正在寻找 AI 应用开发、AI 产品开发与软件开发实习机会，也欢迎交流有趣的产品想法。</p>
+            <p>无限进步，欢迎交流有趣的产品想法</p>
             <div className="contact-links">
               <a href={`mailto:${profile.email}`}>
                 <span><Mail size={19} aria-hidden="true" />Email</span>
